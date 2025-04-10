@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Fawad | PortFolio</title>
+        <title>Malik Asad | PortFolio</title>
         <meta name="description" content="Fawad | PortFolio" />
         <meta property="og:title" content="Fawad | PortFolio" />
         <meta property="og:description" content="Fawad | PortFolio" />
